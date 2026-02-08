@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pth
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+data/outputs/*.mp4
+output_intermediate.png
+performance_metrics.json
+.env
